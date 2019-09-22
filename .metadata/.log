@@ -1,0 +1,18 @@
+!SESSION 2019-09-22 18:54:42.284 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_221
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Mule-Workspace\Test-Project
+
+!ENTRY org.mule.tooling.core 2 0 2019-09-22 18:55:00.309
+!MESSAGE C:\Users\VAMSI\.m2\repository does not exist or contain a maven repository
+
+!ENTRY org.mule.tooling.core 2 0 2019-09-22 18:55:00.323
+!MESSAGE C:\Users\VAMSI\.m2\repository does not exist or contain a maven repository
+
+!ENTRY org.eclipse.ui 4 4 2019-09-22 18:55:03.433
+!MESSAGE Referenced part does not exist yet: org.eclipse.ui.views.ContentOutline.
+
+!ENTRY org.eclipse.ui 4 4 2019-09-22 18:55:03.449
+!MESSAGE Referenced part does not exist yet: org.eclipse.ui.views.ContentOutline.
